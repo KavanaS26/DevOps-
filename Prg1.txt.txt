@@ -5,3 +5,7 @@ Adding 2 more lines
 don't know what I am doing 
 
 
+git init
+git config
+git add
+git commit
